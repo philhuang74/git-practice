@@ -1,5 +1,5 @@
 I am Philip Huang and I edited this file!  
-
+I am Philip Huang and I edited this file online!  
 
 # Practice with git and GitHub
 
